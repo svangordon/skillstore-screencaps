@@ -21,5 +21,3 @@ SkillStore had a number of different learning modules, each with a different foc
 
 ![quiz](quiz.png?raw=true "quiz")
 Quiz view
-
-![quiz](quiz.png?raw=true "quiz")
