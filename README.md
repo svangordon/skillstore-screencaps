@@ -16,7 +16,7 @@ Interactive Roleplay: Two users would roleplay a situation they might encounter 
 ![Module View](moduleview.png?raw=true "Module View")
 Module View
 
-![Module View](mymodules.png?raw=true "Module View)
+![Module View](mymodules.png?raw=true "Module View")
 SkillStore had a number of different learning modules, each with a different focus, such as Dealing with Angry Customers or Active Listening
 
 ![quiz](quiz.png?raw=true "quiz")
